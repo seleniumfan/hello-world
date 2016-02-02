@@ -1,8 +1,12 @@
 # hello-world
-Pierwszy projekt
+Pierwszy projekts
 
-Dodalem te linie w 
+
 celu sprawdzenia
 commita
 
 Pewien tekst, ostatni commit
+
+Jakis dziwny fasiakowy tekst
+
+Trzeci commit
